@@ -2,3 +2,13 @@ protobuf>=4.25.3
 transformers
 torch
 sentencepiece
+accelerate
+RealtimeTTS
+RealtimeSTT
+bitsandbytes
+python-dotenv 
+huggingface_hub
+# torchaudio
+# torchvision
+coqui-tts
+torchcodec

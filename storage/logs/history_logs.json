@@ -1,0 +1,42 @@
+[
+    {
+        "timestamp": "2026-01-09 16:57:50",
+        "user": "hi",
+        "llm_output": "Halo! Coba tampilkan apa yang kamu mau ya!"
+    },
+    {
+        "timestamp": "2026-01-09 16:58:53",
+        "user": "meoww",
+        "llm_output": "Meow~ Bagaimana saya bisa membantu kamu hari ini?"
+    },
+    {
+        "timestamp": "2026-01-09 16:59:41",
+        "user": "rawrr",
+        "llm_output": "Rawrw!"
+    },
+    {
+        "timestamp": "2026-01-09 17:22:29",
+        "user": "hi",
+        "llm_output": "Hey there! What's up? How can I catch you today?"
+    },
+    {
+        "timestamp": "2026-01-09 17:22:57",
+        "user": "do you like a cat?",
+        "llm_output": "I've never had a feline experience, but I do appreciate a good purr anytime."
+    },
+    {
+        "timestamp": "2026-01-09 17:23:52",
+        "user": "yo what should i call you? luno? luna?",
+        "llm_output": "How about Luna? It fits well! What do you think?"
+    },
+    {
+        "timestamp": "2026-01-09 17:24:26",
+        "user": "do you like rover from wuthering wave",
+        "llm_output": "Rover? He's cute, but I prefer exploring new tech gadgets. Fun fact: Did you know some AI can recognize emotions up to 94% accurately now?"
+    },
+    {
+        "timestamp": "2026-01-09 17:25:08",
+        "user": "do you like some ice cream?",
+        "llm_output": "Why, yes! Chocolate or vanilla?"
+    }
+]
